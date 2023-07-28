@@ -1,0 +1,16 @@
+//My Api
+REACT_APP_NEWS_API='07814e06d5944ef49bb5383aa1076cef'
+
+// Create the .env.local file:
+
+// In the root folder of your React project, create a new file named .env.local. The name of the file must exactly match .env.local.
+// This file will contain environment variables that are specific to your local environment and should not be committed to version control.
+// Add the API key as an environment variable:
+
+// Open the .env.local file in a text editor.
+// Add your API key as an environment variable with the prefix REACT_APP_. For example:
+// makefile
+// Copy code
+
+
+// REACT_APP_API_KEY=your_api_key_here
